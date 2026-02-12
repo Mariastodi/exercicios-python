@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 101,
+        "Nome": "Caneta Azul",
+        "Preco_Unitario": 2.5,
+        "Qtd_Estoque": 100
+    },
+    {
+        "ID": 103,
+        "Nome": "Lápis HB",
+        "Preco_Unitario": 1.0,
+        "Qtd_Estoque": 50
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "tema": "dark",
+    "versao": 2.1,
+    "permissoes": [
+        "leitura",
+        "escrita"
+    ]
+}

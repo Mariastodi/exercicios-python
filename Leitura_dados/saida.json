@@ -1,0 +1,12 @@
+[
+    {
+        "produto": "C\u00e2mera",
+        "preco": "350.90",
+        "estoque": "15"
+    },
+    {
+        "produto": "Trip\u00e9",
+        "preco": "85.20",
+        "estoque": "25"
+    }
+]
